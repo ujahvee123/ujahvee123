@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Ujahvee 👋
 
-<!--
-**ujahvee123/ujahvee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior SOC Analyst | Cybersecurity Professional in training**
 
-Here are some ideas to get you started:
+I recently completed the TechCrush Cybersecurity Bootcamp (SOC track) and am actively looking for **Junior SOC Analyst**, **SOC Analyst I**, or **Cybersecurity Intern** roles in Nigeria or remote.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I bring
+- Hands-on SIEM experience (Splunk deployment + detection)
+- Incident Response playbooks & alert triage
+- MITRE ATT&CK mapping and professional investigation reports
+- Strong foundation in Windows/Linux log analysis, Wireshark, and threat hunting
+
+#### Portfolio
+🔗 **[Full Cybersecurity Portfolio](https://github.com/ujahvee123/Techcrush-cybersecurity-portfolio)**  
+Featured work includes:
+- Splunk SIEM deployment with real attack simulation and MITRE-mapped incident report
+- Complete IR playbooks (phishing, ransomware, DDoS)
+- SOC alert triage and investigation write-ups
+
+#### Contact
+- Email: victorujah123@gmail.com]
+- Location: Nigeria
+
+**Open to Junior SOC Analyst / Cybersecurity Intern opportunities.**  
+Feel free to explore my portfolio or reach out!
